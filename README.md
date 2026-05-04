@@ -12,7 +12,7 @@ However, in the context of having viewers make their own assumptions and not be 
 When looking at the chart again below, from the initial analysis, we can how varied it goes back in forth between Negative to Positive, likely a sign that the content creator(s) evaluating/reporting their opinions on the findings are attempting to keep it as balanced as possible.
 
 
-
+![Sentiment_Results_YouTube_Review](Sentiment_Results_YouTube_Review.png)
 
 
 All this being said, there may be exceptions to this rule if it's (object or idea) is a more objectively good or bad in many other reviews or contexts within the community or world.
